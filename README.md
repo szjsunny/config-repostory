@@ -1,0 +1,2 @@
+# config-repostory
+springcloud中config分支需要配合使用的仓库
